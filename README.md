@@ -1,4 +1,3 @@
-![Web Developer](https://scontent.fdac177-1.fna.fbcdn.net/v/t39.30808-6/494693823_122233207358198243_6880021028365884820_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFIqPagvvai1TDOpRns-wR9U62PSQ1CRRpTrY9JDUJFGpulrWFGVrALaBpurJGIl5Ane1sy8BK0XXkqWuqpNX3F&_nc_ohc=HTlINCRFIYMQ7kNvwET9YrT&_nc_oc=AdmsQQDkdMcDnY_hHxlnIObWAOBWDTfeOwiKbrm_7bnhmt8yMwL5m250aTiunoy1Is4&_nc_zt=23&_nc_ht=scontent.fdac177-1.fna&_nc_gid=GPQGJBrDh2As8XNrNafvTw&oh=00_AfI2JJHFiZdITYIirxC49ohDVxVjchWHQnGgu9AAbR8OVQ&oe=683C62DA)
 
 
 
