@@ -6,7 +6,7 @@
 I'm a Web Developer.............
  i Am Mamun passionate about making error-free websites with 100% client satisfaction. I prefer to help people with all the knowledge I have. I love solving real-world problems. And work strategically, goal-oriented, and always with an end goal in mind. And I always recharge to update my skills so that I can work according to the client's needs.
 
-Skills: HTML / CSS / JS /  REACT / Java / Python 
+<h1 align="center">Skills: HTML / CSS / JS /  REACT / Java / Python </h1>
 
 - 🔭 I’m currently working on this page.
 - 
@@ -102,7 +102,6 @@ Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
 Thank you so much to all the amazing sponsors who support this project!
 Your contributions help keep development going and make this work possible.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mamun41-361/Mamun41-361/edit/main/README.md&show_icons=true&count_private=true)  
 
 
 
