@@ -18,7 +18,9 @@ I'm a Web Developer.............
 - 
 - 📫 How to reach me: Telegram:-@riyan1047 
 
-<h1 align="left"> .🌱 I’m currently learning Python...</h1>
+ <h1 align="left"> .🌱 I’m currently learning Python...![LoadLoadingGIF (2)](https://github.com/user-attachments/assets/ad1f9678-1599-4cf6-a62f-91c9afd5e670)
+![LoadLoadingGIF](https://github.com/user-attachments/assets/08bc9e2c-55c7-479f-a02b-50f21a1c3065)
+</h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mamun41-361/Mamun41-361/edit/main/README.md)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mdmamun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mamun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/riyankhan8844?igsh=MWhkbWU0aDFiNGVxbg%3D%3D&utm_source=qr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mamun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/riyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Md.Mamun)  
 
