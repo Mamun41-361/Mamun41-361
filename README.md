@@ -51,7 +51,7 @@ Skills: HTML / CSS / JS /  REACT / Java / Python
 ## 🎁 One-Time Sponsors
 
 
-<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -61,7 +61,18 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-</div>
+# About Rank
+
+Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
+
+| Rank       | Description                                                                                |
+| ---------- | ------------------------------------------------------------------------------------------ |
+| SSS, SS, S | You are at a hard to reach rank. You can brag.                                             |
+| AAA, AA, A | You will reach this rank if you do your best. Let's aim here first.                        |
+| B, C       | You are currently making good progress. Let's aim a bit higher.                            |
+| UNKNOWN    | You have not taken action yet. Let's act first.                                            |
+| SECRET     | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mamun41-361/Mamun41-361/edit/main/README.md)](https://github.com/anuraghazra/github-readme-stats)
