@@ -44,6 +44,13 @@ Skills: HTML / CSS / JS /  REACT / Java / Python
 
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mamun41-361/Mamun41-361/edit/main/README.md)](https://github.com/anuraghazra/github-readme-stats)
 
 
