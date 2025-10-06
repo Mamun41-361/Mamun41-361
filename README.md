@@ -54,8 +54,9 @@ Skills: HTML / CSS / JS /  REACT / Java / Python
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+<p align="center">
+  <img width="330" src="https://user-images.githubusercontent.com/6661165/91659474-c07f7400-eb0a-11ea-84f2-eb6b42547829.png">
+</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
