@@ -90,11 +90,11 @@ Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
   <img width="220" src="https://user-images.githubusercontent.com/6661165/91642962-6333e600-ea6a-11ea-83af-e371e996bfa6.png" />
 </p>
 <h5 align="left">
-1. Title name of aggregation target.
-2. Current rank.
-3. Title according to rank.
-4. Target aggregation result.
-5. Rank progress bar.
+<h5 align="left">1. Title name of aggregation target.</h5>
+<h5 align="left">2. Current rank.</h5>
+<h5 align="left">3. Title according to rank.</h5>
+<h5 align="left">4. Target aggregation result.</h5>
+<h5 align="left">5. Rank progress bar.</h5>
 </h5>
 <h2 align="center">
 🙏 Sponsors
