@@ -10,7 +10,7 @@ I'm a Web Developer.............
 
 - 🔭 I’m currently working on this page.
 - 
-- 🌱 I’m currently learning Python
+- <h1 align="left"> 🌱 I’m currently learning Python</h1>
 - 
 - 👯 I’m looking to collaborate on Web Developer
 - 
