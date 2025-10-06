@@ -34,21 +34,34 @@ Skills: HTML / CSS / JS /  REACT / Java / Python
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
 </div>
 <div align="center">
+🏆 Add dynamically generated GitHub Stat Trophies on your README
 
+<div align="center">
+
+[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
+[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
+
+</div>
+
+<img width="93" height="20" alt="image" src="https://github.com/user-attachments/assets/38341bfd-a3c5-4104-999b-83593ac043f4" />
 
 ## 🎁 One-Time Sponsors
 
 
-
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mamun41-361/Mamun41-361/edit/main/README.md)](https://github.com/anuraghazra/github-readme-stats)
