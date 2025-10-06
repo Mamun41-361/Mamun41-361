@@ -31,12 +31,9 @@ Skills: HTML / CSS / JS /  REACT / Java / Python
 <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
+  <p align="center">
 </div>
-<div align="center">
-🏆 Add dynamically generated GitHub Stat Trophies on your README
 
-<div align="center">
 
 [![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
 [![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
@@ -48,8 +45,8 @@ Skills: HTML / CSS / JS /  REACT / Java / Python
 
 <img width="93" height="20" alt="image" src="https://github.com/user-attachments/assets/38341bfd-a3c5-4104-999b-83593ac043f4" />
 
-## 🎁 One-Time Sponsors
 
+#MAMUN
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
@@ -59,7 +56,10 @@ Skills: HTML / CSS / JS /  REACT / Java / Python
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/147340893-655b9fa5-138f-4f29-91ec-2a17c93822d1.png">
+</p>
+
 
 
 # About Rank
@@ -76,14 +76,26 @@ Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mamun41-361/Mamun41-361/edit/main/README.md)](https://github.com/anuraghazra/github-readme-stats)
+# About Display details
 
+<p align="center">
+  <img width="220" src="https://user-images.githubusercontent.com/6661165/91642962-6333e600-ea6a-11ea-83af-e371e996bfa6.png" />
+</p>
+
+1. Title name of aggregation target.
+2. Current rank.
+3. Title according to rank.
+4. Target aggregation result.
+5. Rank progress bar.
+
+
+🙏 Sponsors
+
+Thank you so much to all the amazing sponsors who support this project!
+Your contributions help keep development going and make this work possible.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mamun41-361/Mamun41-361/edit/main/README.md&show_icons=true&count_private=true)  
 
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Mamun41-361/Mamun41-361/edit/main/README.md)  
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Mamun41-361/Mamun41-361/edit/main/README.md)  
 
