@@ -31,9 +31,12 @@ Skills: HTML / CSS / JS /  REACT / Java / Python
 <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Profile Trophy</h2>
+ <h1 align="center">MAMUN</h1>
   <p align="center">
 </div>
 
+
+<div align="center">
 
 [![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
 [![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
@@ -43,10 +46,14 @@ Skills: HTML / CSS / JS /  REACT / Java / Python
 
 </div>
 
-<img width="93" height="20" alt="image" src="https://github.com/user-attachments/assets/38341bfd-a3c5-4104-999b-83593ac043f4" />
+
+<div align="center">
+  <a href="https://github.com/sponsors/ryo-ma">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
+  </a>
+</div>
 
 
-#MAMUN
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
